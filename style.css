@@ -1,0 +1,69 @@
+h1 {
+    color: red;
+}
+
+.camel {
+    color: yellow;
+}
+
+.chameleon {
+    color: greenyellow;
+}
+
+.pigeon {
+    color: lightblue;
+}
+
+.bear {
+    color: orange;
+}
+
+.panda {
+    color: gray;
+    padding-left: 50px;
+}
+
+.cicada {
+    color: orange;
+    padding-left: 50px;
+}
+
+/*.camelImg {
+    display : flex;
+}*/
+
+.chameleonImg {
+    padding-left : 300px;
+}
+
+.pigeonImg {
+    padding-left : 300px;
+}
+
+/*.bearImg {
+    display : flex;
+}*/
+
+.pandaImg {
+    padding-left : 300px;
+}
+
+.cicadaImg {
+    padding-left : 300px;
+}
+
+.cameleon {
+    display : flex;
+}
+
+.cameleonImg {
+    display : flex;
+}
+
+.benda {
+    display : flex;
+}
+
+.bendaImg {
+    display : flex;
+}
